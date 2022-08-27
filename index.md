@@ -2,7 +2,9 @@
 # Hello, World! 
 
 I'm **Tripathy Divyajyoti Senapati**.
-Currently a student from Bhubaneswar, Odisha, India. 
+
+I'm currently a student from Bhubaneswar, Odisha, India.
+
 I code out of curiosity and practice it as a hobby too!
 
 ## What do I code?
@@ -14,4 +16,4 @@ IDE's VS Code for everything & Code::Blocks for competitive programming
 I'm on almost all of the social networks, going by tdivyajyotis;
 but notably on Reddit & Twitter, I go by my pseudonym codercuber instead.
 
-anyway the most reliable option is good ol' email at codercuber[at]pm.me or tdivyajyotis[at]duck.com
+anyways the most reliable option is good ol' email at codercuber[at]pm.me or tdivyajyotis[at]duck.com
