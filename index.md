@@ -7,6 +7,8 @@ I'm currently a student from Bhubaneswar, Odisha, India.
 
 I code out of curiosity and practice it as a hobby too!
 
+*just a caffeinated dev*
+
 ## How do I code?
 I frequently use Python for most projects, but JS is also a nice language for webapps n stuff.
 I also use C++ for competitive programming.
