@@ -10,7 +10,7 @@ I code out of curiosity and practice it as a hobby too!
 *just a caffeinated dev*
 
 ## How do I code?
-I frequently use Python for most projects, but JS is also a nice language for webapps n stuff.
+I frequently use Python for most projects, but JS is also a nice language for webapps & stuff.
 I also use C++ for competitive programming.
 
 VS Code's the main IDE for everything & Code::Blocks for competitive programming.
