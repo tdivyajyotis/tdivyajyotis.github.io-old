@@ -12,4 +12,4 @@ I'm passionate about Bioinformatics, Material Science and Chemistry. I'm an avid
 I'm on almost all of the social networks, going by tdivyajyotis;
 but notably on Reddit & Twitter, I go by my pseudonym codercuber instead.
 
-Feel free to email at tdivyajyotis[at]duck.com .
+Feel free to email at hey[at]tdivyajyotis.in .
